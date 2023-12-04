@@ -34,9 +34,7 @@ form{
 }
 
 #search-button{
-    width: 12%;
     padding: 10px 20px;
-    font-size: medium;
     border: none;
     box-shadow: 0 0 6px rgb(0, 0, 0, 0.2);
     background: rgb(126, 226, 126);
@@ -44,7 +42,6 @@ form{
     cursor: pointer;
     border-radius: 5px;
     font-size: 18px;
-    margin-left: 10px;
 }
 
 .search-results{
